@@ -8,11 +8,11 @@
 
 ###
 
-<p align="left">My name is Benji and I'm an informatics student at Max Valier High School.</p>
+<h2 align="left">About me</h2>
 
 ###
 
-<h2 align="left">About me</h2>
+<p align="left">My name is Benji and I'm an informatics student at Max Valier High School.</p>
 
 ###
 
