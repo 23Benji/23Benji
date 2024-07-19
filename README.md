@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/23benji/23benji/output/snake.svg" alt="Snake animation" />
+<img src=snake.yml alt="Snake animation" />
 
 ###
 
