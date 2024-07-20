@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning python<br>🎯 Goals: Becoming an Ethical Hacker<br>🎲 Fun fact:</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning python and Ethical Hacking with Kali Linux<br>🎯 Goals: Becoming an good Ethical Hacker<br></p>
 
 ###
 
