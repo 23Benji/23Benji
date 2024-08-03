@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/23benji/23benji/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
