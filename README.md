@@ -4,13 +4,7 @@
 
 <h2 align="left">About me</h2>
 
-###
-
-<p align="left">My name is Benji and I'm an informatics student at Max Valier High School.</p>
-
-###
-
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently into python and Ethical Hacking<br>🎯 Goals: Becoming an good Ethical Hacker or Front End Developer<br></p>
+<p align="left">My name is Benji and I'm an informatics student at Max Valier High School.<br>✨ Creating bugs since 2023<br>📚 I'm currently into Python and Ethical Hacking<br>🎯 Goals: Becoming an good Ethical Hacker or Front End Developer<br></p>
 
 ###
 
