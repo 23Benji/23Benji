@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Benji – a passionate programmer with a strong interest in cybersecurity, ethical hacking, and AI-powered projects.<br><br>
-🔹 Currently working on <a href="https://github.com/mp3skater/LexiPal" target="_blank"><strong>Lexipal</strong></a>, exploring its potential and applications.<br/>
+🔹 Currently working on DeskJarvis, my Maturaproject — an AR-powered desktop assistant that blends augmented reality with smart automation.<br/>
 🔹 Enthusiastic about network security, penetration testing, and ethical hacking.<br>🔹 Always looking for new challenges in software development and AI integration.<br>💡 Open to collaboration on security-focused projects, AI-driven applications, and anything that pushes the boundaries of tech!<br><br>📫 Feel free to reach out or check out my latest projects.
 
 
