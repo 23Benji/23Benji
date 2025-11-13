@@ -1,6 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Benji – a passionate programmer with a strong interest in cybersecurity, ethical hacking, and AI-powered projects.<br><br>
-🔹 Currently working on DeskJarvis, my Maturaproject<br/>
+🔹 Currently working on HearMi and DeskJarvis, my Maturaproject<br/>
 🔹 Enthusiastic about network security, design, and ethical hacking 👥🚩.<br>🔹 Always looking for new challenges in software development, design and AI integration.<br>💡 Open to collaboration on security-focused projects , wordless design that speaks for itself and anything that pushes the boundaries of tech!<br><br>📫 Feel free to reach out or check out my latest projects on my
 **🌐 [Website](https://23benji.github.io/)**  
 
